@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="StravaGPX" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" xmlns="http://www.topografix.com/GPX/1/1">
+ <metadata>
+  <time>2020-06-10T19:23:41Z</time>
+ </metadata>
+ <trk>
+  <name>The Giraffe</name>
+  <type>10</type>
+  <trkseg>
+   <trkpt lat="53.349680579234246" lon="-6.249432633719241">
+    <ele>13.8</ele>
+    <time>2020-06-10T19:23:41Z</time>
+   </trkpt>
+  </trkseg>
+ </trk>
+</gpx>
