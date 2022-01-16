@@ -10,6 +10,56 @@ const data = [
     { "lat": "55.9532", "long": "-3.1882", "colour": "#0000ff", "name": "Edinburgh" },
     { "lat": "55.8446", "long": "-4.2403", "colour": "#0000ff", "name": "Glasgow" },
     { "lat": "51.5072", "long": "-0.1276", "colour": "#00ff00", "name": "London" },
+    { "lat": "51.7520", "long": "-1.2577", "colour": "#00ff00", "name": "Oxford" },
+    { "lat": "50.7184", "long": "-3.5338", "colour": "#00ff00", "name": "Exeter" },
+    { "lat": "50.6199", "long": "-3.4137", "colour": "#00ff00", "name": "Exmouth" },
+    { "lat": "53.4083", "long": "-2.99157", "colour": "#00ff00", "name": "Liverpool" },
+    { "lat": "54.5699", "long": "-0.90011", "colour": "#00ff00", "name": "Skinningrove" },
+    { "lat": "54.2100", "long": "-0.2905", "colour": "#00ff00", "name": "Filey" },
+    { "lat": "54.0853", "long": "-0.1988", "colour": "#00ff00", "name": "Bridlington" },
+    { "lat": "54.4343", "long": "-0.5350", "colour": "#00ff00", "name": "Robin Hoods Bay" },
+    { "lat": "54.4863", "long": "-0.6133", "colour": "#00ff00", "name": "Whitby" },
+    { "lat": "54.5564", "long": "-0.7954", "colour": "#00ff00", "name": "Staithes" },
+    { "lat": "54.5345", "long": "-0.7551", "colour": "#00ff00", "name": "Runswick Bay" },
+    { "lat": "54.5030", "long": "-0.6712", "colour": "#00ff00", "name": "Sandsend" },
+    { "lat": "54.5815", "long": "-0.9751", "colour": "#00ff00", "name": "Saltburn-by-the-sea" },
+    { "lat": "50.6845", "long": "-3.4666", "colour": "#00ff00", "name": "Topsham" },
+    { "lat": "53.3785", "long": "-6.0570", "colour": "#ff0000", "name": "Howth" },
+    { "lat": "53.3498", "long": "-6.2603", "colour": "#ff0000", "name": "Dublin" },
+    { "lat": "53.1491", "long": "-6.0793", "colour": "#ff0000", "name": "Greystones" },
+    { "lat": "53.2009", "long": "-6.1110", "colour": "#ff0000", "name": "Bray" },
+    { "lat": "53.3895", "long": "-6.1103", "colour": "#ff0000", "name": "Sutton" },
+    { "lat": "52.0406", "long": "-0.7594", "colour": "#00ff00", "name": "Milton Keynes" },
+    { "lat": "51.1278", "long": "1.13134", "colour": "#00ff00", "name": "Dover" },
+    { "lat": "51.4123", "long": "-0.3000", "colour": "#00ff00", "name": "Kingston Upon Thames" },
+    { "lat": "51.5954", "long": "-0.1305", "colour": "#00ff00", "name": "Alexandra Palace" },
+    { "lat": "51.4933", "long": "-0.0098", "colour": "#00ff00", "name": "Greenwich" },
+    { "lat": "51.5505", "long": "-0.3048", "colour": "#00ff00", "name": "Wembley" },
+    { "lat": "51.5054", "long": "-0.0235", "colour": "#00ff00", "name": "Canary Wharf" },
+    { "lat": "51.5071", "long": "0.03053", "colour": "#00ff00", "name": "Custom House for Excel" },
+    { "lat": "53.2306", "long": "-0.5405", "colour": "#00ff00", "name": "Lincoln" },
+    { "lat": "54.7752", "long": "-1.5848", "colour": "#00ff00", "name": "Durham" },
+    { "lat": "53.4807", "long": "-2.2426", "colour": "#00ff00", "name": "Manchester" },
+    { "lat": "54.2036", "long": "-0.8059", "colour": "#00ff00", "name": "Kirby Misperton" },
+    { "lat": "54.0389", "long": "-0.7146", "colour": "#00ff00", "name": "Thixendale" },
+    { "lat": "54.1994", "long": "-1.1097", "colour": "#00ff00", "name": "Ampleforth" },
+    { "lat": "54.3062", "long": "-0.5996", "colour": "#00ff00", "name": "Dalby Forest" },
+    { "lat": "43.0914", "long": "-0.0457", "colour": "#000000", "name": "Lourdes" },
+    { "lat": "54.0960", "long": "-0.6208", "colour": "#00ff00", "name": "Kirby Grindalythe" },
+    { "lat": "54.0960", "long": "-0.6208", "colour": "#00ff00", "name": "Ferring" },
+    { "lat": "54.0960", "long": "-0.6208", "colour": "#00ff00", "name": "Blackpool" },
+    { "lat": "54.0960", "long": "-0.6208", "colour": "#00ff00", "name": "Nottingham" },
+    { "lat": "54.0960", "long": "-0.6208", "colour": "#00ff00", "name": "Wetherby" },
+    { "lat": "54.0960", "long": "-0.6208", "colour": "#00ff00", "name": "Harrogate" },
+    { "lat": "54.0960", "long": "-0.6208", "colour": "#00ff00", "name": "Keswick" },
+    { "lat": "54.0960", "long": "-0.6208", "colour": "#00ff00", "name": "thing" },
+
+
+
+
+
+
+
 ]
 
 function loadMapScenario() {
