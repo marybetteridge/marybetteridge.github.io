@@ -75,6 +75,7 @@ const data = [
     { "lat": "53.8973", "long": "-1.5269", "colour": "#00ff00", "name": "Harewood House" },
     { "lat": "53.8189", "long": "-1.3192", "colour": "#00ff00", "name": "Lotherton Hall" },
     { "lat": "54.1027", "long": "-1.1107", "colour": "#00ff00", "name": "Stillington" },
+    { "lat": "54.4752", "long": "-1.0616", "colour": "#00ff00", "name": "Kildale" },
 
 
 
