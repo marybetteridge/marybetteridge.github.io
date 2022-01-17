@@ -67,6 +67,14 @@ const data = [
     { "lat": "54.2083", "long": "-1.2155", "colour": "#00ff00", "name": "Kilburn" },
     { "lat": "54.1443", "long": "-2.2927", "colour": "#00ff00", "name": "Horton In Ribblesdale" },
     { "lat": "54.2128", "long": "-2.3466", "colour": "#00ff00", "name": "Ribblehead" },
+    { "lat": "54.3149", "long": "-2.0811", "colour": "#00ff00", "name": "Askrigg" },
+    { "lat": "54.0793", "long": "-1.7617", "colour": "#00ff00", "name": "Bewerley" },
+    { "lat": "53.1933", "long": "-2.8931", "colour": "#00ff00", "name": "Chester" },
+    { "lat": "53.5228", "long": "-1.1284", "colour": "#00ff00", "name": "Doncaster" },
+    { "lat": "54.1237", "long": "-0.9148", "colour": "#00ff00", "name": "Castle Howard" },
+    { "lat": "53.8973", "long": "-1.5269", "colour": "#00ff00", "name": "Harewood House" },
+    { "lat": "53.8189", "long": "-1.3192", "colour": "#00ff00", "name": "Lotherton Hall" },
+    { "lat": "54.1027", "long": "-1.1107", "colour": "#00ff00", "name": "Stillington" },
 
 
 
