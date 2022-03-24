@@ -76,6 +76,10 @@ const data = [
     { "lat": "53.8189", "long": "-1.3192", "colour": "#00ff00", "name": "Lotherton Hall" },
     { "lat": "54.1027", "long": "-1.1107", "colour": "#00ff00", "name": "Stillington" },
     { "lat": "54.4752", "long": "-1.0616", "colour": "#00ff00", "name": "Kildale" },
+    { "lat": "52.642317", "long": "-1.688376", "colour": "#00ff00", "name": "Tamworth" },
+    { "lat": "52.664985", "long": "1.772086", "colour": "#00ff00", "name": "Lichfield" },
+    
+
 
 
 
