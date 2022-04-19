@@ -78,6 +78,7 @@ const data = [
     { "lat": "54.4752", "long": "-1.0616", "colour": "#00ff00", "name": "Kildale" },
     { "lat": "52.642317", "long": "-1.688376", "colour": "#00ff00", "name": "Tamworth" },
     { "lat": "52.664985", "long": "-1.772086", "colour": "#00ff00", "name": "Lichfield" },
+    { "lat": "54.061992", "long": "-2.1533268", "colour": "#00ff00", "name": "Malham" },
     
 
 
