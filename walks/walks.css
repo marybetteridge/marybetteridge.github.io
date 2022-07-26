@@ -22,4 +22,5 @@ body {
 
 #printoutPanel {
     overflow-y: scroll;
+    height: 100%;
 }
