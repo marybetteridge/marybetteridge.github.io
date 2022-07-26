@@ -7,7 +7,7 @@ function loadMapScenario() {
         /* No need to set credentials if already passed in URL */
         center: new Microsoft.Maps.Location(53.4808, -1.2426),
         mapTypeId: Microsoft.Maps.MapTypeId.aerial,
-        zoom: 7
+        zoom: 5
     });
 
     layer = new Microsoft.Maps.Layer();
