@@ -25,3 +25,7 @@ body {
     overflow-y: scroll;
     height: 100%;
 }
+
+#title {
+    display: flex;
+}
