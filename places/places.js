@@ -7,8 +7,10 @@ const data = [
     { "lat": "54.4886", "long": "-0.6133", "colour": "#00ff00", "name": "Whitby" },
     { "lat": "54.5208", "long": "-1.2197", "colour": "#00ff00", "name": "Middlesbrough" },
     { "lat": "54.9782", "long": "-1.6177", "colour": "#00ff00", "name": "Newcastle" },
+    
     { "lat": "55.9532", "long": "-3.1882", "colour": "#0000ff", "name": "Edinburgh" },
     { "lat": "55.8446", "long": "-4.2403", "colour": "#0000ff", "name": "Glasgow" },
+
     { "lat": "51.5072", "long": "-0.1276", "colour": "#00ff00", "name": "London" },
     { "lat": "51.7520", "long": "-1.2577", "colour": "#00ff00", "name": "Oxford" },
     { "lat": "50.7184", "long": "-3.5338", "colour": "#00ff00", "name": "Exeter" },
@@ -24,11 +26,13 @@ const data = [
     { "lat": "54.5030", "long": "-0.6712", "colour": "#00ff00", "name": "Sandsend" },
     { "lat": "54.5815", "long": "-0.9751", "colour": "#00ff00", "name": "Saltburn-by-the-sea" },
     { "lat": "50.6845", "long": "-3.4666", "colour": "#00ff00", "name": "Topsham" },
+
     { "lat": "53.3785", "long": "-6.0570", "colour": "#ff0000", "name": "Howth" },
     { "lat": "53.3498", "long": "-6.2603", "colour": "#ff0000", "name": "Dublin" },
     { "lat": "53.1491", "long": "-6.0793", "colour": "#ff0000", "name": "Greystones" },
     { "lat": "53.2009", "long": "-6.1110", "colour": "#ff0000", "name": "Bray" },
     { "lat": "53.3895", "long": "-6.1103", "colour": "#ff0000", "name": "Sutton" },
+
     { "lat": "52.0406", "long": "-0.7594", "colour": "#00ff00", "name": "Milton Keynes" },
     { "lat": "51.1278", "long": "1.13134", "colour": "#00ff00", "name": "Dover" },
     { "lat": "51.4123", "long": "-0.3000", "colour": "#00ff00", "name": "Kingston Upon Thames" },
@@ -44,7 +48,14 @@ const data = [
     { "lat": "54.0389", "long": "-0.7146", "colour": "#00ff00", "name": "Thixendale" },
     { "lat": "54.1994", "long": "-1.1097", "colour": "#00ff00", "name": "Ampleforth" },
     { "lat": "54.3062", "long": "-0.5996", "colour": "#00ff00", "name": "Dalby Forest" },
+
     { "lat": "43.0914", "long": "-0.0457", "colour": "#000000", "name": "Lourdes" },
+    { "lat": "48.8653", "long": "2.35664", "colour": "#000000", "name": "Paris" },
+    { "lat": "49.1920", "long": "2.46871", "colour": "#000000", "name": "Chantilly" },
+    { "lat": "49.4427", "long": "2.06829", "colour": "#000000", "name": "Beauvais" },
+    { "lat": "49.4822", "long": "1.71340", "colour": "#000000", "name": "Gournay-en-Bray" },
+    { "lat": "49.9235", "long": "1.07419", "colour": "#000000", "name": "Dieppe" },
+
     { "lat": "54.0960", "long": "-0.6208", "colour": "#00ff00", "name": "Kirby Grindalythe" },
     { "lat": "50.8089", "long": "-0.4425", "colour": "#00ff00", "name": "Ferring" },
     { "lat": "53.8175", "long": "-3.0356", "colour": "#00ff00", "name": "Blackpool" },
@@ -55,7 +66,7 @@ const data = [
     { "lat": "53.3672", "long": "-1.8157", "colour": "#00ff00", "name": "Edale" },
     { "lat": "53.5997", "long": "-1.9730", "colour": "#00ff00", "name": "Marsden" },
     { "lat": "53.7433", "long": "-2.0130", "colour": "#00ff00", "name": "Hebden Bridge" },
-    // { "lat": "54.102", "long": "-", "colour": "#00ff00", "name": "Stillington" },
+    { "lat": "54.1033", "long": "-1.1107", "colour": "#00ff00", "name": "Stillington" },
     { "lat": "54.1368", "long": "-0.7978", "colour": "#00ff00", "name": "Malton" },
     { "lat": "54.3685", "long": "-1.2993", "colour": "#00ff00", "name": "Osmotherley" },
     { "lat": "53.9301", "long": "-0.7794", "colour": "#00ff00", "name": "Pocklington" },
@@ -79,6 +90,28 @@ const data = [
     { "lat": "52.642317", "long": "-1.688376", "colour": "#00ff00", "name": "Tamworth" },
     { "lat": "52.664985", "long": "-1.772086", "colour": "#00ff00", "name": "Lichfield" },
     { "lat": "54.061992", "long": "-2.1533268", "colour": "#00ff00", "name": "Malham" },
+    { "lat": "51.260438", "long": "-2.1777622", "colour": "#00ff00", "name": "Westbury" },
+    { "lat": "50.792707", "long": "0.04954005", "colour": "#00ff00", "name": "Newhaven" },
+    { "lat": "50.96504", "long": "0.252607", "colour": "#00ff00", "name": "Heathfield" },
+
+    { "lat": "53.08042", "long": "-4.02564041", "colour": "#00ff00", "name": "Pen-y-Pass" },
+    { "lat": "53.29416", "long": "-3.7320531", "colour": "#00ff00", "name": "Colwyn Bay" },
+    { "lat": "53.2222", "long": "-4.1382568", "colour": "#00ff00", "name": "Bangor" },
+    { "lat": "53.0437", "long": "-4.0360943", "colour": "#00ff00", "name": "Nant Gwynant" },
+
+    53.04371467480868, -4.036094341395893
+
+
+
+
+
+    
+
+    
+
+    
+    
+
     
 
 
