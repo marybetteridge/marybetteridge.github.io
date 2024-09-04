@@ -14,7 +14,7 @@ function loadMapScenario() {
     map.layers.insert(layer);
 }
 
-function displayRoute(xmlFile, map, colour) {
+function displayRoute(xmlFile, map, colour,width) {
 
     function handler() {
 
@@ -33,7 +33,7 @@ function displayRoute(xmlFile, map, colour) {
 
                 var line = new Microsoft.Maps.Polyline(coords, {
                     strokeColor: colour,
-                    strokeThickness: 5,
+                    strokeThickness: width,
                     metadata: xmlFile
                 });
 
@@ -70,7 +70,8 @@ function redraw() {
         if (checkbox.checked) {
             var filename = checkbox.getAttribute("value");
             var colour = checkbox.getAttribute("data-colour");
-            displayRoute(filename, map, colour)            
+            var width = checkbox.getAttribute("data-width") ??5;
+            displayRoute(filename, map, colour, width)            
         }
     });
 }
@@ -81,7 +82,8 @@ checkboxes.forEach(function (checkbox) {
         if (this.checked) {
             var filename = this.getAttribute("value");
             var colour = this.getAttribute("data-colour");
-            displayRoute(filename, map, colour)
+            var width = checkbox.getAttribute("data-width") ??5;
+            displayRoute(filename, map, colour, width)
         } else {
             redraw();
         }
